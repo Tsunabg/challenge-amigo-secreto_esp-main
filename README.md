@@ -1,25 +1,14 @@
-##Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+# Challenge Amigo Secreto Alura
 
-*[Insignias](#insignias)
 
-*[Índice](#índice)
+En este desafío, se desarrollo una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
-*[Estado del proyecto](#Estado-del-proyecto)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
+## Authors
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+- [@Tsunabg](https://github.com/Tsunabg)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
